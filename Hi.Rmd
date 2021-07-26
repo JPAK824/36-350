@@ -1,0 +1,18 @@
+---
+title: "Hi"
+author: "James Pak"
+date: "7/25/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# an important announcement
+print("Hello, World.")
+
+print("I guess this is it for me.")
+```
+
